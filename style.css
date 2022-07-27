@@ -1,0 +1,13 @@
+h1#title {
+  text-align: center;
+}
+p#description {
+  text-align: center;
+  font-size: 18px;
+}
+.table {
+  padding-top: 30px;
+}
+table#myTable {
+  visibility: hidden;
+}
